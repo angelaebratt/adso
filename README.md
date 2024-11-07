@@ -6,43 +6,26 @@ ADSO II - ANGELA EBRATT ALVAREZ
 
 HOJA DE VIDA
 =================================
-información personal:
+ADSO-II-Gabriel-
+=======
+Hoja de vida
+Información Personal
+Nombre: angela ebratt alvarez 
+Dirección: Cra 17 c #26-42 casa A  Soledad, Colombia
+Teléfono: 3005658782
+Correo Electrónico: angelaebratt2000@gmail.com
 
-*Descripción:*
- Abogada con solida formación academica, con experiencia en el area juridica en el juzgado penal del circuito con funciones de conocimientos y en la fiscalia general de la nación, capacitada para la redacción de documentos, proyección de audiencias y manejo de herramientas ofimaticas. Estudiante de Analisis y Desarrollo de Software. 
+Objetivo Profesional
+Estudiante de el programa de formacion tecnologa "Analisis y Desarrollo de software" en el servicio nacional de aprendizaje o tambien llamado SENA con objetivos de culminar el programa y adquirir mas conocimiento y abogada recien graduada.
 
-====================================
-*Nombre completo*:
- - Angela Julieth Ebratt Alvarez
-*Fecha de Nacimiento*:
- - 11 de Septiembre de 2000
-*Dirección:* 
- - Cra 17c #25-42 casa A, bulevard Sol Real, Soledad / Atlantico
-*Correo electronico:*
- - angelaebratt2000@gmail.com
-*Telefono de contacto:*
- - 3005658782
-=====================================
+Educación
+Institucion Educativa Comercial Nuestra Señora de las Misericordias, Barranquilla
+Bachiller Académico - Graduado en 2023
 
-*Objetivo personal:*
+ ## Habilidades
+Habilidad para el trabajo en equipo y la comunicación efectiva
+Capacidad de análisis y resolución de problemas
 
-Culminar de manera oportuna el tecnologo a desarrollar, generando habilidades que generen un valor agregado a mi carrera profesional y de esta misma forma aprender herramientas contractuales para llevar la carrera base a otro nivel. 
-
-=====================================
-
-*Educación:*
- - Bachiller Comercial- Institución Educativa Comercial Nuestra Sra de las Misericordias
- - Pregrado de derecho- Universidad Simón Bolivar. 
- - Excell Basico- Combarranquilla estudios. 
- - Curso de Ingles- ILE. 
-=====================================
-
-*Habilidades:*
-
- poseo habilidades para el trabajo en equipo interdisciplinario, destaco en la toma de decisiones acertadas y tengo la inteligencia emocional para afrontar desafios legales de manera efectiva. 
-======================================
-
-*Idiomas:*
-
-- Español (nativo)
-- Ingles (B1)
+Idiomas
+Español: Nativo
+Inglés: Nivel Básico
